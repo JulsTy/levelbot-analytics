@@ -74,7 +74,7 @@ Instead of telling users what to do, the engine provides reliable market context
    ```
 3. Run the analysis:
    ```bash
-   python main.py
+   python main.py # Use 'python3' on Linux, or 'python' on Windows.
    ```
 4. The output will show detected levels, trendlines, phases, and signal confidence.
 
